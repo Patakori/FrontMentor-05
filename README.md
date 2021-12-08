@@ -1,7 +1,7 @@
 
 Mobile:
 
- <div align=”center”> ![Animação1](https://user-images.githubusercontent.com/86811450/145207969-72950995-3e8e-4c80-84fc-b025bb3e6601.gif) </div>
+ ![Animação1](https://user-images.githubusercontent.com/86811450/145207969-72950995-3e8e-4c80-84fc-b025bb3e6601.gif)
   
 Desktop:
 
