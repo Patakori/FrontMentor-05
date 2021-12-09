@@ -10,7 +10,7 @@ Mobile:
 
 
 
-Desktop:
+Desktop 1440x900:
  
 ![active-states](https://user-images.githubusercontent.com/86811450/145411932-b7fa6375-1918-4447-a021-986caa0ffaad.jpg)
 
